@@ -166,7 +166,7 @@
 								<hr color="black">
 								Cheers,
 								<br>
-								<b>GeeksForGeeks.</b>
+								<b>Bhoomij.</b>
 							</font>
 						</td>
 					</tr>
